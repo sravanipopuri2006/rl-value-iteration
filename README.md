@@ -7,6 +7,7 @@ To develop a Python program to find the optimal policy for the given MDP using t
 The FrozenLake environment in OpenAI Gym is a gridworld problem that challenges reinforcement learning agents to navigate a slippery terrain to reach a goal state while avoiding hazards. The environment is closed with a fence, so the agent cannot leave the gridworld. The agent must determine the best actions to take from each state to maximize its reward.
 
 ## VALUE ITERATION ALGORITHM
+```
 1.Initialize the value function for all states to zero.
 2.Iterate until the values converge, meaning changes become very small.
 3.For each state, evaluate all possible actions.
@@ -17,6 +18,7 @@ The FrozenLake environment in OpenAI Gym is a gridworld problem that challenges 
 8.Ensure the agent follows the best possible path to maximize rewards.
 9.Used in Markov Decision Processes (MDPs) where the environment is uncertain or stochastic.
 10.Guarantees finding the optimal policy, making it useful in reinforcement learning applications
+```
 
 ## VALUE ITERATION FUNCTION
 ### Name:POPURI SRAVANI
