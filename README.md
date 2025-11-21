@@ -58,10 +58,8 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ## OUTPUT:
 ## POPURI SRAVANI
 ## 212223240117
-<img width="754" height="201" alt="image" src="https://github.com/user-attachments/assets/dbea0b6a-5965-4d7a-97c9-e339d5327e4f" />
+<img width="914" height="571" alt="image" src="https://github.com/user-attachments/assets/7bc1a01a-2949-48af-9f2c-9022b98dbcdc" />
 
-<img width="732" height="172" alt="image" src="https://github.com/user-attachments/assets/8cb20fcc-f359-4ce1-aa45-19bdb48271db" />
-<img width="816" height="41" alt="image" src="https://github.com/user-attachments/assets/d4c502ba-c022-4b3e-b17e-7eafdf2f6f65" />
 
 
 
